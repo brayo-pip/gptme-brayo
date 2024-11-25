@@ -18,6 +18,7 @@ Information about gptme-agent's harness and architecture can be found in [`ARCHI
 Run gptme-agent with:
 
 ```sh
+
 # install gptme
 pipx install gptme
 

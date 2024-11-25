@@ -1,0 +1,1 @@
+../all/setup-aw-sync.md
