@@ -1,3 +1,5 @@
+(I have a private repo for the actual agent)
+
 # gptme-agent-template
 
 Template for an agent running on [gptme](https://gptme.org).
